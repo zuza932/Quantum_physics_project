@@ -1,1 +1,1 @@
-# Quantum_physics_project
+# Quantum physics project
