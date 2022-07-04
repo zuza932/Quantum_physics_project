@@ -1,4 +1,5 @@
 # Quantum physics project
+## Finding eigenenergies and eigenfunctions for structures in 1D
 
 - https://nanohub.org/courses/phys342/public_v1/outline/week3schrodingerequationin1doperatorstunnelingandwavepackets/l271dquantumharmonicoscillatorpotential
 - https://lukepolsonphysicsblog.wordpress.com/2020/10/29/example-post-3/
